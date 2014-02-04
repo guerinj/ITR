@@ -1,4 +1,4 @@
 ITR
 ===
 
-ITR
+Real Time Computing project
